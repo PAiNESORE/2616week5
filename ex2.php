@@ -82,8 +82,15 @@
         <div class="col-md-6">
             <label for="inputState" class="form-label">สังกัด (กอง/สำนัก)</label>
             <select id="inputState" class="form-select">
-                <option selected>Choose...</option>
-                <option>...</option>
+                <option selected>กรุณาเลือก</option>
+                <option>สำนักปลัดเทศบาล</option>
+                <option>กองคลัง</option>
+                <option>กองช่าง</option>
+                <option>กองสวัสดิการสังคม</option>
+                <option>กองการศึกษา</option>
+                <option>กองการเจ้าหน้าที่</option>
+                <option>กองสาธารณสุขและสิ่งแวดล้อม</option>
+                <option>กองยุทธศาสตร์และงบประมาณ</option>
             </select>
         </div>
         <div class="col-md-4">
